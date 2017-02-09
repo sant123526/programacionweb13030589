@@ -1,0 +1,10 @@
+html,button,input
+select,texarea
+{
+	color: #222;
+}
+body
+{
+font-size:1em;	
+line-heigth:1.4 px;
+}
